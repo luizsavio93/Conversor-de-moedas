@@ -1,0 +1,1 @@
+alert("Isso é um alerta do Javascript")
